@@ -9,7 +9,7 @@
 │  ██████████  │      │ ROLE: FULL-STACK SYSTEMS ALCHEMIST               │
 │  ██ ████ ██  │      │ DOMAIN: SYSTEMS • ARCHITECTURE • INTEGRATIONS    │
 │  ██████████  │      │ LOCATION: Mũi Né (Remote/Relocation EU/US)       │
-│   ██    ██   │      │ CONTACT: glebko94@gmail.com                      │
+│   ██    ██   │      │                                                  │
 │  ██      ██  │      │ PROFILE: linkedin.com/in/kovalskii0v0analysis    │
 └──────────────┘      └──────────────────────────────────────────────────┘
 
