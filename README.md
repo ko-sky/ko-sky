@@ -1,16 +1,16 @@
 # ko-sky
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                        PROFESSIONAL TECH PROFILE                         │
+│                        PROFESSIONAL TECH PROFILE                        │
 └─────────────────────────────────────────────────────────────────────────┘
 
 ┌──────────────┐      ┌──────────────────────────────────────────────────┐
-│   ██   ██    │      │ NAME: GLEB KOVALSKII                              │
-│ ██████████   │      │ ROLE: FULL-STACK SYSTEMS ALCHEMIST                │
-│ ██ ████ ██   │      │ DOMAIN: SYSTEMS • ARCHITECTURE • INTEGRATIONS     │
-│ ██████████   │      │ LOCATION: Mũi Né (Remote/Relocation EU/US)        │
-│   ██   ██    │      │ CONTACT: glebko94@gmail.com                       │
-│  ██     ██   │      │ PROFILE: linkedin.com/in/kovalskii0v0analysis     │
+│   ██   ██    │      │ NAME: GLEB KOVALSKII                             │
+│  ██████████  │      │ ROLE: FULL-STACK SYSTEMS ALCHEMIST               │
+│  ██ ████ ██  │      │ DOMAIN: SYSTEMS • ARCHITECTURE • INTEGRATIONS    │
+│  ██████████  │      │ LOCATION: Mũi Né (Remote/Relocation EU/US)       │
+│   ██    ██   │      │ CONTACT: glebko94@gmail.com                      │
+│  ██      ██  │      │ PROFILE: linkedin.com/in/kovalskii0v0analysis    │
 └──────────────┘      └──────────────────────────────────────────────────┘
 
 
@@ -49,10 +49,6 @@
   OBSERVABILITY..
     Grafana | Prometheus | ELK
     Event Telemetry | Log Metrics
-
-┌──────────────────────────────────────────────────────────┐
-│                 END OF SYSTEM SPECIFICATION              │
-└──────────────────────────────────────────────────────────┘
 
 
 ```
